@@ -101,36 +101,7 @@ approach:
 
 ---
 
-<!-- Trophies -->
-<h2 align="center">🏆 Achievements</h2>
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kenechy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="98%" />
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenechy/kenechy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenechy/kenechy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kenechy/kenechy/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
-
-<br/><br/>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:36BCF7&height=120&section=footer" width="100%"/>
