@@ -1,24 +1,26 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:36BCF7&height=220&section=header&text=Kench%20Ralfhael%20Bejec&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Building%20Cool%20Stuff&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:36BCF7&height=220&section=header&text=Kench%20Ralfhael%20Bejec&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI-Augmented%20Engineering&descSize=18&descAlignY=52" width="100%"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%E2%9A%A1+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%8C%8F+Cagayan+de+Oro+City%2C+Philippines;%F0%9F%94%A5+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Software+Developer;AI-Augmented+Engineer;Cagayan+de+Oro%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/kenechy?style=for-the-badge&logo=github&color=36BCF7&labelColor=0D1117)](https://github.com/kenechy)
-[![Profile Views](https://komarev.com/ghpvc/?username=kenechy&style=for-the-badge&color=FF6B6B&label=VISITORS)](https://github.com/kenechy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjbejec/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kenchavec.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=kenechy&style=for-the-badge&color=4ECDC4&label=VISITORS)](https://github.com/kenechy)
 
 </div>
 
 <br/>
 
-<!-- About Me Section with Animated Emoji -->
+<!-- About Me Section -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
 
 ```yaml
@@ -31,15 +33,10 @@ currently_building:
   - HR management systems  
   - Full-stack web applications
 
-passions:
-  - Crafting clean, scalable code
-  - Exploring new frameworks & tools
-  - Automating everything I can
-
-fun_facts:
-  - I think in TypeScript and dream in React
-  - Coffee-driven development is my methodology ☕
-  - I believe every bug is just an undocumented feature
+approach:
+  - I leverage AI tools like Claude Code and Cursor to accelerate development
+  - Crafting clean, scalable, and maintainable code
+  - Exploring new frameworks and automating workflows
 ```
 
 ---
@@ -65,6 +62,8 @@ fun_facts:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🛠️ Tools & Platforms
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
